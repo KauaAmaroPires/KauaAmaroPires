@@ -1,9 +1,16 @@
-## Olá, bem-vindo ao meu repositório!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Olá,+bem-vindo+ao+meu+repositório!)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/KauaAmaroPires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaAmaroPires&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAmaroPires&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+
+<p align="center"><br>
+    <a href="https://discord.com/users/399006422253436949" target="_blank">
+      <img width="45%" src="https://lanyard.cnrad.dev/api/399006422253436949?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
