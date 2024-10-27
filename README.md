@@ -29,3 +29,5 @@
   ![Snake animation](https://github.com/KauaAmaroPires/KauaAmaroPires/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![](https://komarev.com/ghpvc/?username=KauaAmaroPires&style=flat&abbreviated=true)
